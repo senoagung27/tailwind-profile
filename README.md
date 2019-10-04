@@ -18,6 +18,8 @@ Note that this repository is used to celebrate Hacktoberfest 2019 and learn Tail
 * Push to your repo and make pull request towards me
 * Congratulations, your Hacktoberfest 2019 has increased by 1
 
+If your PR has been accepted by me, you could see the result [http://ridhof.xyz/tailwind-profile/<your_username>.html](http://ridhof.xyz/tailwind-profile/<your_username>.html)
+
 ## Using the Template
 
 The template is just a HTML file using a full CDN hosted Tailwind CSS file.
