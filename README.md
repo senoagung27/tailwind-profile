@@ -4,23 +4,23 @@
 
 ![Profile Card](https://www.tailwindtoolbox.com/templates/profile-card.png)
 
+## Contributing Guideliness
+
+Note that this repository is used to celebrate Hacktoberfest 2019 and learn Tailwind CSS.
+
 ## Getting Started
 
-Choose one of the following options to get started:
-* [Download the latest release](https://github.com/tailwindtoolbox/Profile-Card/archive/master.zip)
-* Clone the repo: `git clone https://github.com/tailwindtoolbox/Profile-Card.git`
-* Fork the repo
+* Fork the repo & Clone to your local machine
+* Open the project on your favorite text editor / IDE
+* Copy index.html into <your_github_username>.html
+* Change the values of name, occupation, location, your self-explanatory (description), and your social media platforms
+* You also toying around with Tailwind to create more cool UI
+* Push to your repo and make pull request towards me
+* Congratulations, your Hacktoberfest 2019 has increased by 1
 
 ## Using the Template
 
 The template is just a HTML file using a full CDN hosted Tailwind CSS file.
-
-To get the best out of Tailwind CSS, you need to really start customising it.
-Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Profile-Card/issues/new) here on GitHub.
 
 ## Creator
 
